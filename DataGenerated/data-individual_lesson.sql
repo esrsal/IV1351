@@ -1,0 +1,72 @@
+INSERT INTO individual_lesson (individual_id,instrument_used,lesson_id)
+VALUES
+  (1,'French',32),
+  (2,'Violin',33),
+  (3,'Cello',37),
+  (4,'Accordion',35),
+  (5,'Trombone',33),
+  (6,'Ukulele',34),
+  (7,'Cello',37),
+  (8,'Bagpipes',34),
+  (9,'Trumpet',32),
+  (10,'Saxophone',32);
+INSERT INTO individual_lesson (individual_id,instrument_used,lesson_id)
+VALUES
+  (11,'Xylophone',31),
+  (12,'Clarinet',36),
+  (13,'Accordion',39),
+  (14,'Oboe',36),
+  (15,'French',38),
+  (16,'French',37),
+  (17,'Drum',36),
+  (18,'Drum',33),
+  (19,'bass',35),
+  (20,'set',34);
+INSERT INTO individual_lesson (individual_id,instrument_used,lesson_id)
+VALUES
+  (21,'French',32),
+  (22,'Trumpet',31),
+  (23,'guitar',34),
+  (24,'set',35),
+  (25,'French',31),
+  (26,'set',38),
+  (27,'Xylophone',31),
+  (28,'Cello',31),
+  (29,'bass',34),
+  (30,'Djembe',31);
+INSERT INTO individual_lesson (individual_id,instrument_used,lesson_id)
+VALUES
+  (31,'bass',35),
+  (32,'Flute',35),
+  (33,'set',31),
+  (34,'Flute',37),
+  (35,'Drum',35),
+  (36,'Xylophone',33),
+  (37,'Accordion',33),
+  (38,'Djembe',36),
+  (39,'guitar',38),
+  (40,'French',36);
+INSERT INTO individual_lesson (individual_id,instrument_used,lesson_id)
+VALUES
+  (41,'Electric',32),
+  (42,'Harp',37),
+  (43,'Electric',31),
+  (44,'guitar',33),
+  (45,'Trumpet',31),
+  (46,'guitar',37),
+  (47,'Banjo',36),
+  (48,'Oboe',32),
+  (49,'bass',31),
+  (50,'Trumpet',31);
+INSERT INTO individual_lesson (individual_id,instrument_used,lesson_id)
+VALUES
+  (51,'Xylophone',39),
+  (52,'Trumpet',33),
+  (53,'Piano',35),
+  (54,'bass',34),
+  (55,'Banjo',31),
+  (56,'Harp',33),
+  (57,'Banjo',32),
+  (58,'Drum',35),
+  (59,'Drum',37),
+  (60,'Flute',32);

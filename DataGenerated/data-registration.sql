@@ -1,0 +1,480 @@
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (1,'Sep 18, 2020','5:17 PM',123,9),
+  (2,'May 17, 2020','7:09 PM',82,43),
+  (3,'Mar 16, 2022','3:57 PM',47,49),
+  (4,'Nov 15, 2021','2:54 PM',224,49),
+  (5,'May 22, 2022','3:57 PM',305,49),
+  (6,'Jul 30, 2023','2:01 PM',181,48),
+  (7,'Sep 27, 2021','3:18 PM',374,42),
+  (8,'Dec 8, 2021','6:48 PM',275,5),
+  (9,'Apr 9, 2020','2:40 PM',91,28),
+  (10,'Jul 16, 2020','4:46 PM',268,47);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (11,'Apr 16, 2020','6:38 PM',21,37),
+  (12,'Apr 22, 2021','7:20 PM',336,17),
+  (13,'Jul 15, 2020','5:17 PM',184,18),
+  (14,'Apr 20, 2020','3:57 PM',228,29),
+  (15,'Aug 28, 2023','7:26 PM',198,25),
+  (16,'Oct 17, 2022','4:59 PM',115,8),
+  (17,'Dec 31, 2019','4:48 PM',10,6),
+  (18,'May 21, 2023','5:54 PM',199,26),
+  (19,'Jul 12, 2023','2:47 PM',397,26),
+  (20,'Jan 21, 2023','6:24 PM',68,14);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (21,'Sep 12, 2023','2:24 PM',17,9),
+  (22,'Aug 6, 2020','6:38 PM',331,27),
+  (23,'Sep 4, 2021','4:51 PM',130,30),
+  (24,'Aug 25, 2020','6:43 PM',184,16),
+  (25,'Feb 8, 2023','5:50 PM',24,5),
+  (26,'May 23, 2023','2:51 PM',67,7),
+  (27,'Jan 28, 2023','5:10 PM',238,3),
+  (28,'Aug 3, 2023','3:12 PM',386,16),
+  (29,'Aug 27, 2021','3:26 PM',295,23),
+  (30,'Mar 14, 2020','6:26 PM',153,10);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (31,'Nov 17, 2023','4:56 PM',100,26),
+  (32,'Jul 4, 2023','5:37 PM',266,35),
+  (33,'Aug 11, 2023','2:02 PM',68,21),
+  (34,'Feb 12, 2021','2:09 PM',277,31),
+  (35,'Jan 26, 2022','6:48 PM',131,49),
+  (36,'Nov 1, 2022','4:32 PM',126,23),
+  (37,'Nov 18, 2021','2:59 PM',100,46),
+  (38,'Jun 19, 2022','3:25 PM',209,35),
+  (39,'Feb 27, 2023','4:35 PM',30,17),
+  (40,'Feb 12, 2022','5:13 PM',267,32);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (41,'May 4, 2023','5:11 PM',98,38),
+  (42,'Sep 1, 2021','5:16 PM',218,43),
+  (43,'Jun 17, 2020','7:13 PM',174,9),
+  (44,'Sep 6, 2021','3:52 PM',194,14),
+  (45,'Aug 30, 2020','3:53 PM',205,22),
+  (46,'May 31, 2021','3:20 PM',244,6),
+  (47,'Oct 6, 2022','3:20 PM',76,2),
+  (48,'May 8, 2022','3:09 PM',55,44),
+  (49,'Jun 7, 2020','2:43 PM',358,19),
+  (50,'Jan 20, 2023','2:14 PM',113,28);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (51,'Nov 8, 2023','7:57 PM',256,10),
+  (52,'Oct 28, 2023','7:01 PM',94,14),
+  (53,'Nov 8, 2023','6:00 PM',75,4),
+  (54,'Apr 8, 2020','7:49 PM',334,2),
+  (55,'Nov 4, 2020','6:09 PM',33,15),
+  (56,'Nov 26, 2019','7:41 PM',113,47),
+  (57,'Jul 28, 2022','4:07 PM',335,36),
+  (58,'Oct 29, 2021','6:45 PM',60,25),
+  (59,'Jan 27, 2022','6:21 PM',196,5),
+  (60,'May 23, 2020','6:59 PM',61,42);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (61,'Apr 18, 2023','7:23 PM',38,1),
+  (62,'Dec 21, 2020','6:40 PM',72,36),
+  (63,'Nov 17, 2020','2:38 PM',9,11),
+  (64,'Oct 15, 2020','6:09 PM',364,21),
+  (65,'Nov 29, 2019','5:01 PM',99,13),
+  (66,'Jan 2, 2022','7:19 PM',173,28),
+  (67,'Nov 11, 2020','7:35 PM',386,31),
+  (68,'Apr 11, 2020','2:03 PM',81,42),
+  (69,'Dec 7, 2019','5:18 PM',74,26),
+  (70,'Dec 2, 2020','4:55 PM',102,3);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (71,'Feb 8, 2022','2:36 PM',172,14),
+  (72,'Dec 19, 2019','2:02 PM',91,8),
+  (73,'Jun 30, 2021','3:49 PM',392,33),
+  (74,'Jan 16, 2021','5:37 PM',131,25),
+  (75,'Oct 27, 2022','4:45 PM',270,34),
+  (76,'Oct 2, 2022','5:39 PM',142,23),
+  (77,'Feb 23, 2023','6:57 PM',77,14),
+  (78,'Feb 14, 2021','6:05 PM',273,39),
+  (79,'Nov 30, 2021','2:38 PM',20,12),
+  (80,'Jun 1, 2021','7:10 PM',333,22);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (81,'Nov 27, 2020','2:06 PM',41,2),
+  (82,'Jun 2, 2020','2:31 PM',400,16),
+  (83,'Apr 22, 2020','5:19 PM',192,40),
+  (84,'Jan 26, 2023','7:33 PM',344,26),
+  (85,'Oct 13, 2022','6:02 PM',54,14),
+  (86,'Jun 28, 2023','6:55 PM',292,25),
+  (87,'Sep 7, 2022','7:34 PM',306,11),
+  (88,'Dec 26, 2021','2:19 PM',201,24),
+  (89,'Jun 14, 2023','3:01 PM',368,38),
+  (90,'May 13, 2022','6:12 PM',392,10);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (91,'Jul 1, 2023','2:24 PM',267,3),
+  (92,'Nov 25, 2019','6:56 PM',75,48),
+  (93,'Nov 4, 2021','5:54 PM',216,5),
+  (94,'Jun 17, 2023','7:57 PM',271,28),
+  (95,'Mar 23, 2021','4:59 PM',4,38),
+  (96,'Nov 25, 2020','6:37 PM',4,15),
+  (97,'Jul 16, 2021','2:25 PM',158,42),
+  (98,'May 11, 2021','5:02 PM',308,40),
+  (99,'May 4, 2021','5:36 PM',45,26),
+  (100,'Jun 15, 2023','2:22 PM',53,9);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (101,'Dec 1, 2020','5:45 PM',10,24),
+  (102,'Jul 19, 2023','4:19 PM',361,32),
+  (103,'Jan 16, 2022','6:52 PM',262,41),
+  (104,'Jul 9, 2022','3:49 PM',6,39),
+  (105,'May 10, 2022','6:03 PM',363,2),
+  (106,'Aug 19, 2020','2:30 PM',347,9),
+  (107,'May 1, 2020','6:18 PM',360,32),
+  (108,'Feb 4, 2021','3:16 PM',102,7),
+  (109,'Feb 18, 2021','6:35 PM',187,38),
+  (110,'Feb 19, 2020','3:13 PM',268,37);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (111,'Apr 29, 2020','5:48 PM',255,26),
+  (112,'Dec 24, 2021','3:50 PM',285,36),
+  (113,'May 14, 2021','2:14 PM',16,38),
+  (114,'Nov 13, 2023','7:33 PM',175,20),
+  (115,'Dec 25, 2019','5:59 PM',78,41),
+  (116,'Jun 27, 2020','4:05 PM',227,22),
+  (117,'Aug 7, 2022','2:23 PM',309,25),
+  (118,'Jun 24, 2022','5:00 PM',285,17),
+  (119,'May 21, 2021','7:50 PM',170,19),
+  (120,'Apr 15, 2021','6:52 PM',13,24);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (121,'Apr 18, 2021','2:38 PM',144,42),
+  (122,'Sep 14, 2023','6:39 PM',380,6),
+  (123,'Dec 17, 2022','7:48 PM',370,17),
+  (124,'Dec 3, 2022','7:42 PM',224,10),
+  (125,'Apr 10, 2023','7:36 PM',179,50),
+  (126,'Nov 7, 2023','3:52 PM',261,21),
+  (127,'Jun 13, 2022','6:40 PM',398,46),
+  (128,'Jun 20, 2023','7:31 PM',49,25),
+  (129,'Aug 8, 2022','6:59 PM',273,13),
+  (130,'Aug 14, 2022','2:14 PM',372,3);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (131,'Jul 21, 2021','3:41 PM',53,17),
+  (132,'Jun 30, 2020','4:39 PM',322,8),
+  (133,'Nov 7, 2020','7:58 PM',32,13),
+  (134,'May 30, 2020','3:51 PM',269,12),
+  (135,'Nov 21, 2019','4:57 PM',204,33),
+  (136,'Feb 3, 2022','4:32 PM',244,25),
+  (137,'Apr 17, 2021','6:15 PM',332,15),
+  (138,'Jun 24, 2021','2:12 PM',217,27),
+  (139,'Apr 9, 2020','3:06 PM',363,19),
+  (140,'Jul 12, 2022','2:14 PM',228,36);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (141,'Oct 2, 2021','3:36 PM',212,47),
+  (142,'Mar 26, 2020','3:07 PM',156,6),
+  (143,'Jun 8, 2020','4:19 PM',172,47),
+  (144,'Mar 6, 2023','4:26 PM',367,17),
+  (145,'Mar 4, 2021','4:10 PM',136,38),
+  (146,'May 2, 2021','5:52 PM',169,16),
+  (147,'Nov 18, 2023','3:58 PM',386,35),
+  (148,'Jun 23, 2022','6:05 PM',360,32),
+  (149,'Jun 23, 2023','3:26 PM',301,48),
+  (150,'Oct 11, 2020','2:27 PM',83,21);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (151,'Apr 14, 2023','6:16 PM',123,10),
+  (152,'Nov 14, 2023','3:53 PM',381,38),
+  (153,'Oct 20, 2023','7:01 PM',169,6),
+  (154,'Jun 19, 2022','4:58 PM',320,12),
+  (155,'Jan 10, 2020','4:18 PM',71,7),
+  (156,'Aug 22, 2023','4:59 PM',76,49),
+  (157,'Sep 11, 2020','7:23 PM',393,39),
+  (158,'Nov 13, 2021','7:14 PM',341,41),
+  (159,'Jun 10, 2022','4:38 PM',142,45),
+  (160,'Jan 31, 2022','2:00 PM',283,20);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (161,'Apr 3, 2023','3:46 PM',21,32),
+  (162,'Nov 26, 2020','5:58 PM',127,22),
+  (163,'Mar 22, 2022','6:12 PM',391,23),
+  (164,'Apr 25, 2021','5:28 PM',134,20),
+  (165,'Jan 28, 2023','5:54 PM',137,36),
+  (166,'Apr 21, 2021','6:39 PM',58,47),
+  (167,'Aug 18, 2020','3:39 PM',238,12),
+  (168,'Sep 24, 2020','6:56 PM',48,29),
+  (169,'Feb 19, 2023','7:23 PM',205,49),
+  (170,'Sep 30, 2022','5:19 PM',399,6);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (171,'May 15, 2022','7:40 PM',109,40),
+  (172,'Aug 29, 2022','3:34 PM',315,24),
+  (173,'Jan 3, 2023','7:08 PM',376,48),
+  (174,'Aug 31, 2021','2:32 PM',185,29),
+  (175,'May 16, 2020','3:04 PM',304,42),
+  (176,'Aug 30, 2020','3:28 PM',185,45),
+  (177,'May 30, 2023','7:30 PM',54,22),
+  (178,'Mar 14, 2022','6:56 PM',30,44),
+  (179,'Aug 5, 2021','6:29 PM',259,37),
+  (180,'Feb 5, 2022','5:16 PM',39,36);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (181,'Nov 28, 2019','5:53 PM',327,40),
+  (182,'Jul 15, 2023','5:02 PM',326,45),
+  (183,'Jul 15, 2023','5:39 PM',286,44),
+  (184,'Oct 15, 2021','6:32 PM',283,22),
+  (185,'May 29, 2022','5:55 PM',224,2),
+  (186,'May 20, 2020','7:11 PM',309,30),
+  (187,'Jun 11, 2021','5:01 PM',260,10),
+  (188,'Apr 23, 2020','5:06 PM',157,30),
+  (189,'Sep 19, 2023','3:10 PM',123,43),
+  (190,'Oct 9, 2021','4:41 PM',76,30);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (191,'Dec 11, 2022','5:31 PM',75,38),
+  (192,'Nov 29, 2022','7:01 PM',11,39),
+  (193,'Mar 25, 2023','4:31 PM',331,25),
+  (194,'Dec 23, 2021','6:56 PM',227,30),
+  (195,'May 27, 2021','5:23 PM',84,26),
+  (196,'Sep 24, 2021','4:48 PM',228,9),
+  (197,'Apr 10, 2021','5:20 PM',386,48),
+  (198,'Jul 4, 2020','6:36 PM',5,14),
+  (199,'Oct 31, 2022','4:20 PM',15,2),
+  (200,'Nov 28, 2019','4:32 PM',121,8);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (201,'Mar 5, 2022','2:17 PM',61,36),
+  (202,'Jan 30, 2021','6:20 PM',120,15),
+  (203,'Mar 5, 2022','2:18 PM',251,30),
+  (204,'Sep 27, 2023','7:06 PM',238,46),
+  (205,'Dec 31, 2020','7:59 PM',378,38),
+  (206,'Oct 9, 2023','2:53 PM',247,43),
+  (207,'Aug 8, 2022','2:47 PM',273,29),
+  (208,'May 24, 2021','3:54 PM',54,39),
+  (209,'Apr 28, 2022','7:40 PM',380,10),
+  (210,'Jul 20, 2021','3:15 PM',318,26);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (211,'Jan 27, 2021','6:58 PM',364,12),
+  (212,'Jan 30, 2023','3:38 PM',345,40),
+  (213,'Dec 10, 2019','5:21 PM',388,31),
+  (214,'Jul 28, 2021','5:27 PM',21,22),
+  (215,'Oct 9, 2022','4:19 PM',99,21),
+  (216,'Feb 5, 2022','3:53 PM',47,29),
+  (217,'Oct 19, 2022','7:20 PM',92,3),
+  (218,'Apr 29, 2021','5:48 PM',251,35),
+  (219,'Mar 7, 2023','2:13 PM',370,27),
+  (220,'Aug 8, 2022','6:11 PM',299,43);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (221,'Oct 13, 2023','2:19 PM',171,14),
+  (222,'Sep 26, 2023','4:37 PM',332,7),
+  (223,'May 30, 2020','5:30 PM',100,4),
+  (224,'Nov 29, 2021','4:38 PM',257,13),
+  (225,'Jun 10, 2021','4:09 PM',246,20),
+  (226,'Feb 7, 2023','5:44 PM',144,16),
+  (227,'Dec 26, 2019','2:30 PM',89,3),
+  (228,'Aug 14, 2021','3:22 PM',177,32),
+  (229,'Mar 21, 2023','4:08 PM',130,10),
+  (230,'Jul 15, 2022','2:57 PM',272,45);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (231,'Mar 26, 2021','4:44 PM',54,12),
+  (232,'Mar 22, 2022','3:10 PM',365,20),
+  (233,'Aug 9, 2021','6:30 PM',16,20),
+  (234,'Sep 8, 2021','6:29 PM',376,37),
+  (235,'Oct 17, 2022','6:09 PM',321,6),
+  (236,'Feb 8, 2020','6:20 PM',280,3),
+  (237,'Mar 8, 2020','4:22 PM',376,39),
+  (238,'May 15, 2022','7:25 PM',216,11),
+  (239,'Jan 29, 2020','5:14 PM',25,26),
+  (240,'Jan 29, 2020','6:17 PM',278,9);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (241,'May 15, 2023','3:14 PM',35,28),
+  (242,'Aug 25, 2022','3:04 PM',22,36),
+  (243,'Apr 30, 2020','6:23 PM',268,28),
+  (244,'Oct 17, 2020','4:00 PM',392,37),
+  (245,'Jun 26, 2021','3:06 PM',21,14),
+  (246,'Mar 27, 2023','2:00 PM',21,2),
+  (247,'Jun 3, 2020','4:42 PM',301,3),
+  (248,'Oct 18, 2020','4:20 PM',268,29),
+  (249,'Apr 9, 2021','6:33 PM',90,25),
+  (250,'May 9, 2022','2:29 PM',81,47);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (251,'Oct 22, 2022','4:03 PM',11,15),
+  (252,'Feb 9, 2022','3:35 PM',141,3),
+  (253,'Feb 2, 2020','7:03 PM',40,15),
+  (254,'Oct 24, 2021','5:56 PM',367,25),
+  (255,'Jun 22, 2022','7:19 PM',333,32),
+  (256,'May 5, 2021','3:02 PM',6,19),
+  (257,'Sep 1, 2022','5:53 PM',116,2),
+  (258,'Oct 8, 2022','7:30 PM',127,40),
+  (259,'Mar 14, 2023','3:30 PM',117,2),
+  (260,'Feb 7, 2020','2:47 PM',68,19);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (261,'Feb 26, 2020','4:45 PM',82,37),
+  (262,'Aug 31, 2023','5:47 PM',256,16),
+  (263,'May 9, 2021','3:01 PM',210,7),
+  (264,'Mar 10, 2021','5:12 PM',211,5),
+  (265,'Nov 12, 2020','4:15 PM',199,44),
+  (266,'Dec 6, 2021','2:03 PM',40,40),
+  (267,'Dec 16, 2022','3:26 PM',352,10),
+  (268,'Mar 21, 2021','4:32 PM',25,36),
+  (269,'Apr 28, 2021','7:23 PM',399,34),
+  (270,'Mar 17, 2023','7:06 PM',72,13);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (271,'Jun 12, 2023','3:31 PM',168,41),
+  (272,'Oct 23, 2020','3:18 PM',30,12),
+  (273,'Jul 7, 2022','5:01 PM',187,6),
+  (274,'Nov 9, 2023','5:30 PM',95,36),
+  (275,'Apr 24, 2021','3:16 PM',7,23),
+  (276,'Jan 21, 2023','2:16 PM',305,2),
+  (277,'Dec 28, 2020','7:38 PM',142,19),
+  (278,'Apr 28, 2023','3:24 PM',73,3),
+  (279,'Sep 13, 2023','6:43 PM',304,17),
+  (280,'May 8, 2021','6:35 PM',366,35);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (281,'Jul 18, 2023','6:32 PM',212,43),
+  (282,'Jul 20, 2020','3:54 PM',313,11),
+  (283,'Jul 27, 2021','7:38 PM',6,14),
+  (284,'Jan 2, 2022','3:58 PM',379,9),
+  (285,'Feb 20, 2020','3:24 PM',266,25),
+  (286,'Jan 31, 2023','2:20 PM',116,18),
+  (287,'Nov 17, 2021','2:43 PM',278,21),
+  (288,'Jan 2, 2022','3:48 PM',352,40),
+  (289,'Jul 21, 2023','5:36 PM',381,34),
+  (290,'Mar 15, 2020','3:21 PM',171,21);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (291,'Dec 3, 2021','6:49 PM',189,38),
+  (292,'Mar 1, 2020','6:56 PM',212,41),
+  (293,'Jun 6, 2020','4:25 PM',88,10),
+  (294,'Jul 15, 2021','2:58 PM',394,27),
+  (295,'May 18, 2023','6:29 PM',143,42),
+  (296,'Feb 18, 2023','5:07 PM',208,47),
+  (297,'Nov 6, 2023','2:54 PM',82,36),
+  (298,'Dec 10, 2019','6:44 PM',31,47),
+  (299,'Jul 4, 2023','3:45 PM',210,10),
+  (300,'Nov 12, 2022','4:02 PM',140,39);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (301,'Dec 19, 2020','4:30 PM',191,30),
+  (302,'Mar 26, 2020','2:03 PM',97,14),
+  (303,'Feb 18, 2023','2:19 PM',274,14),
+  (304,'Apr 2, 2022','2:10 PM',284,13),
+  (305,'Jan 15, 2023','2:20 PM',54,36),
+  (306,'Dec 22, 2020','6:47 PM',163,40),
+  (307,'Jun 10, 2020','4:03 PM',144,45),
+  (308,'Jul 16, 2023','3:26 PM',373,32),
+  (309,'Mar 28, 2020','5:22 PM',18,7),
+  (310,'Feb 28, 2023','5:43 PM',70,9);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (311,'Apr 5, 2022','6:17 PM',285,2),
+  (312,'Feb 11, 2020','5:47 PM',64,30),
+  (313,'Oct 20, 2021','6:36 PM',151,46),
+  (314,'Mar 19, 2020','7:46 PM',184,15),
+  (315,'Sep 27, 2021','2:47 PM',254,40),
+  (316,'Dec 1, 2019','7:04 PM',62,26),
+  (317,'Jul 19, 2022','6:27 PM',48,32),
+  (318,'Oct 27, 2020','2:01 PM',156,7),
+  (319,'Mar 18, 2020','5:44 PM',349,43),
+  (320,'Jan 2, 2022','7:52 PM',78,32);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (321,'Apr 18, 2020','4:52 PM',97,44),
+  (322,'Sep 16, 2021','7:45 PM',101,9),
+  (323,'Sep 27, 2022','2:58 PM',219,27),
+  (324,'Jul 13, 2020','3:30 PM',388,35),
+  (325,'Mar 15, 2020','7:36 PM',376,22),
+  (326,'Sep 18, 2020','7:03 PM',143,5),
+  (327,'Jul 2, 2023','3:46 PM',68,11),
+  (328,'May 7, 2023','5:45 PM',379,23),
+  (329,'Dec 22, 2019','5:32 PM',324,32),
+  (330,'Jan 31, 2020','2:16 PM',167,23);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (331,'Jul 20, 2021','5:49 PM',159,44),
+  (332,'Sep 9, 2022','3:39 PM',367,26),
+  (333,'Jan 17, 2023','7:45 PM',126,47),
+  (334,'Nov 3, 2021','5:57 PM',368,13),
+  (335,'Jan 14, 2020','6:54 PM',275,34),
+  (336,'Dec 21, 2020','7:42 PM',207,42),
+  (337,'Mar 19, 2020','7:48 PM',89,46),
+  (338,'Jul 9, 2022','4:27 PM',380,10),
+  (339,'Dec 14, 2019','6:55 PM',247,44),
+  (340,'Nov 6, 2022','4:20 PM',308,15);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (341,'May 3, 2022','2:06 PM',293,15),
+  (342,'Mar 13, 2020','2:56 PM',54,28),
+  (343,'May 4, 2022','3:08 PM',267,18),
+  (344,'Mar 4, 2021','6:22 PM',90,6),
+  (345,'Jan 3, 2021','7:10 PM',318,35),
+  (346,'Jan 9, 2020','3:42 PM',29,20),
+  (347,'Oct 21, 2021','4:03 PM',65,4),
+  (348,'Jan 21, 2020','3:13 PM',334,16),
+  (349,'Dec 30, 2022','5:17 PM',274,37),
+  (350,'Jun 5, 2021','5:29 PM',205,4);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (351,'Dec 9, 2019','7:05 PM',151,26),
+  (352,'May 18, 2021','7:33 PM',156,48),
+  (353,'Dec 14, 2020','4:44 PM',25,26),
+  (354,'Nov 28, 2021','6:18 PM',338,9),
+  (355,'Oct 17, 2021','2:58 PM',295,32),
+  (356,'Aug 6, 2023','6:19 PM',31,29),
+  (357,'Feb 22, 2021','4:25 PM',387,49),
+  (358,'Apr 28, 2021','4:05 PM',73,2),
+  (359,'Jan 2, 2021','7:59 PM',354,31),
+  (360,'May 7, 2020','6:30 PM',208,45);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (361,'Jun 24, 2022','6:40 PM',53,7),
+  (362,'Sep 16, 2022','6:10 PM',204,42),
+  (363,'Jul 26, 2021','4:52 PM',56,11),
+  (364,'Jan 1, 2021','2:56 PM',275,40),
+  (365,'May 7, 2020','5:14 PM',240,19),
+  (366,'Jul 18, 2020','3:05 PM',159,14),
+  (367,'Jun 6, 2023','2:46 PM',273,8),
+  (368,'Nov 28, 2019','6:07 PM',81,38),
+  (369,'Oct 16, 2023','7:32 PM',50,5),
+  (370,'Aug 27, 2021','3:54 PM',179,17);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (371,'Oct 11, 2023','6:33 PM',208,16),
+  (372,'May 11, 2023','4:51 PM',84,39),
+  (373,'Apr 1, 2020','5:00 PM',16,37),
+  (374,'Nov 17, 2020','7:53 PM',287,36),
+  (375,'Feb 24, 2020','7:45 PM',118,22),
+  (376,'Mar 21, 2022','5:16 PM',400,35),
+  (377,'Jul 6, 2020','6:31 PM',38,42),
+  (378,'Dec 30, 2022','7:05 PM',354,12),
+  (379,'Oct 3, 2023','6:19 PM',199,3),
+  (380,'Feb 16, 2023','5:49 PM',110,11);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (381,'Aug 9, 2023','5:36 PM',54,36),
+  (382,'Aug 24, 2022','4:10 PM',88,42),
+  (383,'May 30, 2022','3:37 PM',385,39),
+  (384,'Nov 27, 2021','6:20 PM',106,30),
+  (385,'Sep 14, 2023','7:05 PM',319,46),
+  (386,'Aug 27, 2020','5:31 PM',16,2),
+  (387,'Aug 15, 2020','3:43 PM',242,17),
+  (388,'Dec 3, 2019','7:39 PM',14,23),
+  (389,'Mar 24, 2021','5:23 PM',398,15),
+  (390,'Mar 23, 2020','4:23 PM',276,23);
+INSERT INTO registration (registration_id,registration_date,registration_time,student_id,lesson_id)
+VALUES
+  (391,'Dec 12, 2019','3:17 PM',229,16),
+  (392,'Aug 3, 2021','3:24 PM',81,36),
+  (393,'Jul 4, 2021','5:59 PM',250,33),
+  (394,'Feb 11, 2022','6:26 PM',252,3),
+  (395,'Jul 22, 2021','3:55 PM',305,6),
+  (396,'Dec 5, 2019','5:14 PM',43,3),
+  (397,'Aug 27, 2021','3:39 PM',254,47),
+  (398,'Mar 27, 2022','5:58 PM',197,3),
+  (399,'Feb 3, 2022','7:33 PM',381,31),
+  (400,'Nov 22, 2022','2:01 PM',303,43);

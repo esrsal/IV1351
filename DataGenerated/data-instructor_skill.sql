@@ -1,0 +1,120 @@
+INSERT INTO instructor_skill (instructor_skill_id,skill,instructor_id)
+VALUES
+  (1,'guitar',1),
+  (2,'Harp',2),
+  (3,'Drum',3),
+  (4,'Accordion',4),
+  (5,'Cello',5),
+  (6,'Djembe',6),
+  (7,'Ukulele',7),
+  (8,'set',8),
+  (9,'Cello',9),
+  (10,'Saxophone',10);
+INSERT INTO instructor_skill (instructor_skill_id,skill,instructor_id)
+VALUES
+  (11,'Banjo',11),
+  (12,'Harp',12),
+  (13,'Drum',13),
+  (14,'Ukulele',14),
+  (15,'Banjo',15),
+  (16,'Piano',16),
+  (17,'Electric',17),
+  (18,'Drum',18),
+  (19,'Trombone',19),
+  (20,'Saxophone',20);
+INSERT INTO instructor_skill (instructor_skill_id,skill,instructor_id)
+VALUES
+  (21,'set',21),
+  (22,'Trumpet',22),
+  (23,'Harp',23),
+  (24,'Guitar',24),
+  (25,'Guitar',25),
+  (26,'Saxophone',26),
+  (27,'Trombone',27),
+  (28,'Djembe',28),
+  (29,'horn',29),
+  (30,'Drum',30);
+INSERT INTO instructor_skill (instructor_skill_id,skill,instructor_id)
+VALUES
+  (31,'Violin',31),
+  (32,'Electric',32),
+  (33,'Djembe',33),
+  (34,'French',34),
+  (35,'Djembe',35),
+  (36,'Drum',36),
+  (37,'set',37),
+  (38,'Clarinet',38),
+  (39,'Drum',39),
+  (40,'Banjo',40);
+INSERT INTO instructor_skill (instructor_skill_id,skill,instructor_id)
+VALUES
+  (41,'horn',41),
+  (42,'Trombone',42),
+  (43,'guitar',43),
+  (44,'horn',44),
+  (45,'Oboe',45),
+  (46,'Clarinet',46),
+  (47,'Cello',47),
+  (48,'horn',48),
+  (49,'Banjo',49),
+  (50,'Cello',50);
+INSERT INTO instructor_skill (instructor_skill_id,skill,instructor_id)
+VALUES
+  (51,'Electric',51),
+  (52,'Djembe',52),
+  (53,'Accordion',53),
+  (54,'Trombone',54),
+  (55,'Djembe',55),
+  (56,'Trumpet',56),
+  (57,'Accordion',57),
+  (58,'Flute',58),
+  (59,'Ukulele',59),
+  (60,'bass',60);
+INSERT INTO instructor_skill (instructor_skill_id,skill,instructor_id)
+VALUES
+  (61,'Cello',61),
+  (62,'Trumpet',62),
+  (63,'Banjo',63),
+  (64,'Cello',64),
+  (65,'Banjo',65),
+  (66,'Banjo',66),
+  (67,'Banjo',67),
+  (68,'set',68),
+  (69,'Accordion',69),
+  (70,'Guitar',70);
+INSERT INTO instructor_skill (instructor_skill_id,skill,instructor_id)
+VALUES
+  (71,'Xylophone',71),
+  (72,'bass',72),
+  (73,'horn',73),
+  (74,'Cello',74),
+  (75,'guitar',75),
+  (76,'Harp',76),
+  (77,'Oboe',77),
+  (78,'Guitar',78),
+  (79,'Cello',79),
+  (80,'bass',80);
+INSERT INTO instructor_skill (instructor_skill_id,skill,instructor_id)
+VALUES
+  (81,'set',81),
+  (82,'Djembe',82),
+  (83,'French',83),
+  (84,'Drum',84),
+  (85,'French',85),
+  (86,'Violin',86),
+  (87,'bass',87),
+  (88,'Accordion',88),
+  (89,'Trumpet',89),
+  (90,'Saxophone',90);
+INSERT INTO instructor_skill (instructor_skill_id,skill,instructor_id)
+VALUES
+  (91,'French',91),
+  (92,'Xylophone',92),
+  (93,'Clarinet',93),
+  (94,'Oboe',94),
+  (95,'Harp',95),
+  (96,'Bagpipes',96),
+  (97,'Piano',97),
+  (98,'Violin',98),
+  (99,'Ukulele',99),
+  (100,'Accordion',100);

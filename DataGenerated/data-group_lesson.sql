@@ -1,0 +1,120 @@
+INSERT INTO group_lesson (group_id,instrument_used,min_number_of_student,max_number_of_student,lesson_id)
+VALUES
+  (1,'bass',6,25,22),
+  (2,'Oboe',6,22,24),
+  (3,'Ukulele',5,24,23),
+  (4,'Clarinet',6,24,4),
+  (5,'Violin',6,21,23),
+  (6,'set',5,24,28),
+  (7,'Piano',6,23,6),
+  (8,'set',6,22,19),
+  (9,'French',5,23,26),
+  (10,'Banjo',5,22,9);
+INSERT INTO group_lesson (group_id,instrument_used,min_number_of_student,max_number_of_student,lesson_id)
+VALUES
+  (11,'Cello',5,20,2),
+  (12,'French',5,20,10),
+  (13,'French',6,20,25),
+  (14,'Trumpet',5,20,6),
+  (15,'guitar',6,22,19),
+  (16,'Flute',6,24,22),
+  (17,'Guitar',6,20,22),
+  (18,'Trumpet',6,21,3),
+  (19,'Saxophone',6,23,3),
+  (20,'bass',5,24,10);
+INSERT INTO group_lesson (group_id,instrument_used,min_number_of_student,max_number_of_student,lesson_id)
+VALUES
+  (21,'Trumpet',5,21,19),
+  (22,'Flute',6,22,24),
+  (23,'Saxophone',6,25,23),
+  (24,'Violin',6,24,17),
+  (25,'Trombone',6,20,23),
+  (26,'Accordion',6,22,8),
+  (27,'Cello',5,20,24),
+  (28,'Violin',6,21,8),
+  (29,'Xylophone',6,20,7),
+  (30,'set',5,21,6);
+INSERT INTO group_lesson (group_id,instrument_used,min_number_of_student,max_number_of_student,lesson_id)
+VALUES
+  (31,'Drum',5,22,16),
+  (32,'Drum',5,23,21),
+  (33,'Accordion',5,23,26),
+  (34,'guitar',5,23,4),
+  (35,'Drum',6,24,22),
+  (36,'guitar',6,25,19),
+  (37,'Drum',5,23,5),
+  (38,'guitar',6,22,12),
+  (39,'Guitar',6,22,26),
+  (40,'Djembe',6,22,16);
+INSERT INTO group_lesson (group_id,instrument_used,min_number_of_student,max_number_of_student,lesson_id)
+VALUES
+  (41,'Trumpet',5,22,13),
+  (42,'Banjo',6,24,11),
+  (43,'Oboe',5,22,22),
+  (44,'French',6,21,14),
+  (45,'Djembe',6,21,20),
+  (46,'Piano',5,23,24),
+  (47,'Saxophone',6,25,3),
+  (48,'Flute',6,25,20),
+  (49,'set',5,23,16),
+  (50,'French',6,24,17);
+INSERT INTO group_lesson (group_id,instrument_used,min_number_of_student,max_number_of_student,lesson_id)
+VALUES
+  (51,'Ukulele',5,20,16),
+  (52,'guitar',6,20,12),
+  (53,'Ukulele',5,23,4),
+  (54,'Banjo',5,22,6),
+  (55,'Drum',5,24,9),
+  (56,'Banjo',6,20,25),
+  (57,'Flute',5,22,18),
+  (58,'Guitar',6,23,30),
+  (59,'Harp',6,23,21),
+  (60,'guitar',6,24,30);
+INSERT INTO group_lesson (group_id,instrument_used,min_number_of_student,max_number_of_student,lesson_id)
+VALUES
+  (61,'Saxophone',5,21,3),
+  (62,'guitar',5,20,13),
+  (63,'Trumpet',5,24,28),
+  (64,'Electric',6,23,4),
+  (65,'set',5,24,19),
+  (66,'Flute',5,21,27),
+  (67,'horn',5,20,11),
+  (68,'Violin',6,22,28),
+  (69,'Flute',6,22,6),
+  (70,'Flute',6,23,29);
+INSERT INTO group_lesson (group_id,instrument_used,min_number_of_student,max_number_of_student,lesson_id)
+VALUES
+  (71,'Guitar',6,21,29),
+  (72,'Djembe',6,23,6),
+  (73,'set',5,20,23),
+  (74,'Flute',6,21,1),
+  (75,'Saxophone',6,24,20),
+  (76,'Piano',6,25,13),
+  (77,'bass',5,25,10),
+  (78,'bass',6,20,13),
+  (79,'set',6,22,11),
+  (80,'horn',6,23,13);
+INSERT INTO group_lesson (group_id,instrument_used,min_number_of_student,max_number_of_student,lesson_id)
+VALUES
+  (81,'set',5,24,6),
+  (82,'Cello',6,24,26),
+  (83,'Guitar',5,23,5),
+  (84,'French',6,20,7),
+  (85,'Violin',5,23,26),
+  (86,'Violin',6,25,10),
+  (87,'French',6,23,2),
+  (88,'Clarinet',5,25,1),
+  (89,'bass',6,23,27),
+  (90,'guitar',5,21,23);
+INSERT INTO group_lesson (group_id,instrument_used,min_number_of_student,max_number_of_student,lesson_id)
+VALUES
+  (91,'horn',6,24,27),
+  (92,'set',5,22,17),
+  (93,'Djembe',6,23,22),
+  (94,'bass',6,22,1),
+  (95,'set',6,22,6),
+  (96,'Drum',5,23,2),
+  (97,'Saxophone',6,23,8),
+  (98,'Djembe',6,21,10),
+  (99,'guitar',6,21,10),
+  (100,'Clarinet',5,23,4);
