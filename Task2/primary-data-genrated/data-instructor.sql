@@ -1,0 +1,120 @@
+INSERT INTO instructor (instructor_id,is_able_to_teach_ensamble,person_id)
+VALUES
+  (1,'Yes',400),
+  (2,'Yes',401),
+  (3,'Yes',402),
+  (4,'Yes',403),
+  (5,'No',404),
+  (6,'No',405),
+  (7,'No',406),
+  (8,'No',407),
+  (9,'No',408),
+  (10,'No',409);
+INSERT INTO instructor (instructor_id,is_able_to_teach_ensamble,person_id)
+VALUES
+  (11,'Yes',410),
+  (12,'No',411),
+  (13,'No',412),
+  (14,'Yes',413),
+  (15,'Yes',414),
+  (16,'No',415),
+  (17,'Yes',416),
+  (18,'Yes',417),
+  (19,'Yes',418),
+  (20,'Yes',419);
+INSERT INTO instructor (instructor_id,is_able_to_teach_ensamble,person_id)
+VALUES
+  (21,'Yes',420),
+  (22,'No',421),
+  (23,'No',422),
+  (24,'Yes',423),
+  (25,'Yes',424),
+  (26,'No',425),
+  (27,'No',426),
+  (28,'Yes',427),
+  (29,'Yes',428),
+  (30,'No',429);
+INSERT INTO instructor (instructor_id,is_able_to_teach_ensamble,person_id)
+VALUES
+  (31,'No',430),
+  (32,'Yes',431),
+  (33,'No',432),
+  (34,'No',433),
+  (35,'No',434),
+  (36,'No',435),
+  (37,'No',436),
+  (38,'Yes',437),
+  (39,'Yes',438),
+  (40,'No',439);
+INSERT INTO instructor (instructor_id,is_able_to_teach_ensamble,person_id)
+VALUES
+  (41,'Yes',440),
+  (42,'No',441),
+  (43,'Yes',442),
+  (44,'Yes',443),
+  (45,'Yes',444),
+  (46,'Yes',445),
+  (47,'Yes',446),
+  (48,'Yes',447),
+  (49,'Yes',448),
+  (50,'No',449);
+INSERT INTO instructor (instructor_id,is_able_to_teach_ensamble,person_id)
+VALUES
+  (51,'No',450),
+  (52,'Yes',451),
+  (53,'Yes',452),
+  (54,'No',453),
+  (55,'No',454),
+  (56,'Yes',455),
+  (57,'No',456),
+  (58,'No',457),
+  (59,'Yes',458),
+  (60,'No',459);
+INSERT INTO instructor (instructor_id,is_able_to_teach_ensamble,person_id)
+VALUES
+  (61,'Yes',460),
+  (62,'No',461),
+  (63,'No',462),
+  (64,'Yes',463),
+  (65,'Yes',464),
+  (66,'No',465),
+  (67,'Yes',466),
+  (68,'No',467),
+  (69,'No',468),
+  (70,'No',469);
+INSERT INTO instructor (instructor_id,is_able_to_teach_ensamble,person_id)
+VALUES
+  (71,'Yes',470),
+  (72,'Yes',471),
+  (73,'No',472),
+  (74,'No',473),
+  (75,'No',474),
+  (76,'Yes',475),
+  (77,'No',476),
+  (78,'No',477),
+  (79,'No',478),
+  (80,'Yes',479);
+INSERT INTO instructor (instructor_id,is_able_to_teach_ensamble,person_id)
+VALUES
+  (81,'No',480),
+  (82,'No',481),
+  (83,'Yes',482),
+  (84,'Yes',483),
+  (85,'Yes',484),
+  (86,'No',485),
+  (87,'No',486),
+  (88,'No',487),
+  (89,'No',488),
+  (90,'Yes',489);
+INSERT INTO instructor (instructor_id,is_able_to_teach_ensamble,person_id)
+VALUES
+  (91,'Yes',490),
+  (92,'Yes',491),
+  (93,'No',492),
+  (94,'Yes',493),
+  (95,'No',494),
+  (96,'Yes',495),
+  (97,'Yes',496),
+  (98,'No',497),
+  (99,'No',498),
+  (100,'No',499);
